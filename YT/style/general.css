@@ -1,0 +1,17 @@
+
+p{
+    font-family: Roboto , arial ;
+
+
+}
+body{
+    margin: 0;
+    padding-top: 83px;
+    padding-left: 100px;
+    padding-right: 24px;
+    background-color: rgb(249,249,249);
+
+}
+button{
+    cursor: pointer;
+}
